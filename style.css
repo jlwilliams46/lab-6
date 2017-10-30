@@ -25,11 +25,9 @@ nav ul {
     overflow: hidden;
     background-color: #333;
 }
-
 nav li {
     float: left;
 }
-
 nav li a {
     display: block;
     color: white;
@@ -37,7 +35,6 @@ nav li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 nav li a:hover {
     background-color: #111;
 }
